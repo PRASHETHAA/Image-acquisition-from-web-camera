@@ -38,10 +38,8 @@ import cv2
 videoCaptureObject = cv2.VideoCapture(0)
 while(True):
     ret,frame = videoCaptureObject.read()
-    cv2.imshow("apple.jpg",frame)
+    cv2.imwrite("apple.jpg",frame)
     result = False
-    if cv2.waitKey(1) == ord('q'): 
-        break
 videoCaptureObject.release()
 cv2.destroyAllWindows()
 
