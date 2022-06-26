@@ -122,6 +122,7 @@ cv2.destroyAllWindows()
 
 
 ```
+<br>
 ## Output
 
 ### i) Write the frame as JPG image
