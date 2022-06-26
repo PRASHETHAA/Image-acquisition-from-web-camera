@@ -1,4 +1,6 @@
-# Image-Acquisition-from-Web-Camera
+## EX NO:02
+## DATE:7.4.22
+# <p align="center">Image-Acquisition-from-Web-Camera
 ## Aim
  
 Aim:
@@ -29,7 +31,7 @@ End the program and close the output video windows by pressing 'q'.
 
 ## Program:
 ``` Python
-### Developed By: PRASHEETHA
+### Developed By: PRASHETHAA R
 ### Register No: 212220230036
 
 ## i) Write the frame as JPG file
